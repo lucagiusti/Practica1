@@ -1,6 +1,5 @@
-Titulo : Tablero de control para Cazafantasmas
-Subtitulo : Nuevas funcionalidades 
-Lista con funciones a implementar : 
-    -addGhost
-    -setDangerLevel
-    -captureGhost
+# Tablero de control para Cazafantasmas
+## Nuevas funcionalidades 
+- addGhost
+- setDangerLevel
+- captureGhost
