@@ -15,7 +15,7 @@ class Ghost {
     });
   };
   
-  const setDangerLevel = (name, level) => {
+  const setDangggerLevel = (name, level) => {
     const ghost = ghostReports.find((g) => g.name === name);
     if (ghost) {
       ghost.dangerLevel = level;
@@ -28,4 +28,4 @@ class Ghost {
         ghost.captured = true;
     }
   }
-  
+
